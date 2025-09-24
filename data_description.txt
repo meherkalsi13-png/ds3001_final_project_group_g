@@ -1,0 +1,30 @@
+bp (Diastolic): Diastolic blood pressure value given in mm/Hg
+bp limit: Blood pressure range/limit 
+sg: Specific gravity of urine
+al: Albumin level in urine
+class: Diagnostic class, showing if diagnosis is Chronic Kidney Disease or not. Value is ckd or notckd
+rbc: Red blood cell count, 1 if abnormal or  0 if not
+su: Sugar level, catagories 1-5 levels indicating severity
+pc: Puss cell count, abnormal or normal 1 or 0
+pcc: Puss cell clumps prescence, abnormal or normal
+ba: Bacteria Prescence, abnormal or normal 1 or 0
+bgr: Blood glucose random level
+bu: Blood urea level, it is in mgs/dl
+sod: Sodium level, It is measured in mEq/L
+sc: Serum Creatinine High level is not good 
+pot: Potassium level, It is measured in mEq/L
+hemo: Hemoglobin level less than 15 is kidney failure
+pcv: Packed cell volume
+rbcc: Red blood cell count, Should not be higher or less than normal
+wbcc: White blood cell count
+htn: Hypertension prescence 0 (No), 1 (Yes)
+dm: Diabetes Mellitus prescence 0 (No), 1 (Yes)
+cad: Coronary artery disease prescence 0 (No), 1 (Yes)
+appet: Appetite normal/poor 0/1
+pe: Pedal edema prescence 0 (No), 1 (Yes)
+ane: Anemia prescence 0 (No), 1 (Yes)
+grf: Glomerular filtration rate 
+stage: Stage of Chronic Kidney Disease s1-s5
+affected: Number of kidneys affected
+age: Age of patient
+class (meta): Metadata column identifying target variable
