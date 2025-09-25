@@ -2,7 +2,7 @@ bp (Diastolic): Diastolic blood pressure value given in mm/Hg
 bp limit: Blood pressure range/limit 
 sg: Specific gravity of urine
 al: Albumin level in urine
-class: Diagnostic class, showing if diagnosis is Chronic Kidney Disease or not. Value is ckd or notckd
+class: Diagnostic class, showing if diagnosis is Chronic Kidney Disease or not. 0 (No), 1 (Yes)
 rbc: Red blood cell count, 1 if abnormal or  0 if not
 su: Sugar level, catagories 1-5 levels indicating severity
 pc: Puss cell count, abnormal or normal 1 or 0
@@ -26,5 +26,5 @@ ane: Anemia prescence 0 (No), 1 (Yes)
 grf: Glomerular filtration rate 
 stage: Stage of Chronic Kidney Disease s1-s5
 affected: Number of kidneys affected
-age: Age of patient
+age: Age range of patient, represented by a value 1-5
 class (meta): Metadata column identifying target variable
