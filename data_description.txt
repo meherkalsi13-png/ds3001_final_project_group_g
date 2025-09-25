@@ -4,7 +4,7 @@ sg: Specific gravity of urine
 al: Albumin level in urine
 class: Diagnostic class, showing if diagnosis is Chronic Kidney Disease or not. 0 (No), 1 (Yes)
 rbc: Red blood cell count, 1 if abnormal or  0 if not
-su: Sugar level, catagories 1-5 levels indicating severity
+su: Sugar level, categories 1-5 levels indicating severity
 pc: Puss cell count, abnormal or normal 1 or 0
 pcc: Puss cell clumps prescence, abnormal or normal
 ba: Bacteria Prescence, abnormal or normal 1 or 0
