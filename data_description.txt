@@ -6,7 +6,7 @@ class: Diagnostic class, showing if diagnosis is Chronic Kidney Disease or not. 
 rbc: Red blood cell count, 1 if abnormal or  0 if not
 su: Sugar level, categories 1-5 levels indicating severity
 pc: Puss cell count, abnormal or normal 1 or 0
-pcc: Puss cell clumps prescence, abnormal or normal
+pcc: Puss cell clumps presence, abnormal or normal
 ba: Bacteria Prescence, abnormal or normal 1 or 0
 bgr: Blood glucose random level
 bu: Blood urea level, it is in mgs/dl
@@ -17,12 +17,12 @@ hemo: Hemoglobin level less than 15 is kidney failure
 pcv: Packed cell volume
 rbcc: Red blood cell count, Should not be higher or less than normal
 wbcc: White blood cell count
-htn: Hypertension prescence 0 (No), 1 (Yes)
-dm: Diabetes Mellitus prescence 0 (No), 1 (Yes)
-cad: Coronary artery disease prescence 0 (No), 1 (Yes)
+htn: Hypertension presence 0 (No), 1 (Yes)
+dm: Diabetes Mellitus presence 0 (No), 1 (Yes)
+cad: Coronary artery disease presence 0 (No), 1 (Yes)
 appet: Appetite normal/poor 0/1
-pe: Pedal edema prescence 0 (No), 1 (Yes)
-ane: Anemia prescence 0 (No), 1 (Yes)
+pe: Pedal edema presence 0 (No), 1 (Yes)
+ane: Anemia presence 0 (No), 1 (Yes)
 grf: Glomerular filtration rate 
 stage: Stage of Chronic Kidney Disease s1-s5
 affected: Number of kidneys affected
